@@ -4,7 +4,7 @@
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-![image](jj.png)
+![image](JJ.png)
 
 ```markdown
 Syntax highlighted code block
